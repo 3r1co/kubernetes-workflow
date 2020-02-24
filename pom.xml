@@ -82,7 +82,7 @@
         <kubernetes-client.version>2.2.9</kubernetes-client.version>       
 
         <maven-hpi-plugin.version>1.112</maven-hpi-plugin.version>
-        <restassured.version>1.7.2</restassured.version>
+        <restassured.version>1.8.0</restassured.version>
 
         <!-- jenkins plugins versions -->
         <jenkins-basic-steps.version>2.1</jenkins-basic-steps.version>
